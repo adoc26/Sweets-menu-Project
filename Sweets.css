@@ -144,4 +144,7 @@ ul {
 
 body {
     background-color: #cb997e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

@@ -218,3 +218,8 @@ body {
     margin: 25px 0;
     transition: background-color 200ms ease-in-out;
 }
+
+.sweets-button:hover,
+.sweets-button:focus {
+    background-color: #ffeedd;
+}

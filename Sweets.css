@@ -159,3 +159,7 @@ body {
     flex-direction: column;
     text-align: center;
 }
+
+.sweets {
+    border-bottom: 1px solid #efebce;
+}

@@ -163,3 +163,7 @@ body {
 .sweets {
     border-bottom: 1px solid #efebce;
 }
+
+.sweets:last-child {
+    border-bottom: none;
+}

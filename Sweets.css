@@ -186,3 +186,12 @@ body {
     margin: 50px 0 25px;
     color: #d8a48f;
 }
+
+.about-sweets-item {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 12px;
+    line-height: 1.5;
+    padding: 15px 0;
+    border-top: 1px solid #efebce;
+  }

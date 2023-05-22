@@ -206,3 +206,10 @@ body {
     font-size: 20px;
     font-weight: 600;
 }
+
+.sweets-button {
+    border: 1px solid #540804;
+    border-radius: 10px;
+    background-color: #ffd8be;
+    color: #81171b;
+}

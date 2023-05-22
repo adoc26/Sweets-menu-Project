@@ -212,4 +212,8 @@ body {
     border-radius: 10px;
     background-color: #ffd8be;
     color: #81171b;
+    display: inline-block;
+    padding: 15px 35px;
+    text-decoration: none;
+    margin: 25px 0;
 }

@@ -153,4 +153,6 @@ body {
 .project {
     background-color: #fffcf2;
     border-radius: 10px;
+    width: 100%;
+    max-width: 1080px;
 }

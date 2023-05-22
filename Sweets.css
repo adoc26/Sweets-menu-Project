@@ -167,3 +167,10 @@ body {
 .sweets:last-child {
     border-bottom: none;
 }
+
+
+.sweets-img {
+    margin-bottom: 50px;
+    max-width: 100%;
+    border-radius: 10%;
+}

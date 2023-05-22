@@ -159,6 +159,7 @@ body {
     flex-direction: column;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
+    padding: 25px 25px;
 }
 
 .sweets {
@@ -168,7 +169,6 @@ body {
 .sweets:last-child {
     border-bottom: none;
 }
-
 
 .sweets-img {
     margin-bottom: 50px;

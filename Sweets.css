@@ -237,6 +237,9 @@ body {
         border-bottom: none;
         border-right: 1px solid #efebce;
         padding: 25px 50px;
-      }
-      
+    }
+
+    .sweets:last-child {
+        border-right: none;
+    }
 }

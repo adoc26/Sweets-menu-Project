@@ -227,3 +227,9 @@ body {
 .sweets-button:focus {
     background-color: #ffeedd;
 }
+
+@media (min-width: 900px) {
+    .project {
+        flex-direction: row;
+    }
+}

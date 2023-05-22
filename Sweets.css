@@ -232,4 +232,11 @@ body {
     .project {
         flex-direction: row;
     }
+
+    .sweets {
+        border-bottom: none;
+        border-right: 1px solid #efebce;
+        padding: 25px 50px;
+      }
+      
 }
